@@ -5,5 +5,6 @@ public class Main {
     public static void main (String[] arg){
         System.out.println("Hello Maven");
         System.out.println("Hello Maven -- by test");
+        System.out.println("Hello Maven -- by test02");
     }
 }
